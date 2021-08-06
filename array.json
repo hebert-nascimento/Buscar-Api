@@ -1,0 +1,37 @@
+[
+	{
+		"id":1,
+		"nome":"Alessandro",
+		"sobrenome":"Antóquio",
+		"stream":"twitch.tv/thedarkness",
+		"email":"thedarkness@gmail.com"
+	},
+	{
+		"id":2,
+		"nome":"Alan",
+		"sobrenome":"Albuquerke",
+		"stream":"twitch.tv/alanzoka",
+		"email":"alanzoka@gmail.com"
+	},
+	{
+		"id":3,
+		"nome":"Gabriel",
+		"sobrenome":"Tolledo",
+		"stream":"twitch.tv/fallen",
+		"email":"fallen@outlook.com"
+	},
+	{
+		"id":4,
+		"nome":"Leonardo",
+		"sobrenome":"Duarte",
+		"stream":"twitch.tv/zigueira",
+		"email":"zigueira@gmail.com"
+	},
+	{
+		"id":5,
+		"nome":"Fernando",
+		"sobrenome":"Alvarenga",
+		"stream":"twitch.tv/fermonster",
+		"email":"fergod@mailinator.com"
+	}
+]

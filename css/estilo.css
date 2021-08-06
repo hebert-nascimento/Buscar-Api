@@ -1,0 +1,41 @@
+body{
+	margin-top: 10px;
+	font-family: noto sans cjk jp bold, arial;
+}
+.animacao{
+	animation-name: fade;
+	animation-delay: 1s;
+	animation-duration: 1000ms;
+	animation-fill-mode: backwards; 
+}
+@keyframes fade{
+	from
+	{
+		opacity: 0;
+		transform: translateX(-35%);
+	}
+	to
+	{
+		opacity: 1;
+		transform: translateX(0);
+	}
+}
+/*
+.remocao{
+	animation-name: fade;
+	animation-delay: 1s;
+	animation-duration: 1000ms;
+}
+
+@keyframes fade{
+	from
+	{
+		opacity: 0;
+		transform: translateY(-35%);
+	}
+	to
+	{
+		opacity: 1;
+		transform: translateY(0);
+	}
+} */
